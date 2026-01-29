@@ -1,2 +1,2 @@
-nama = "Owner"
-hobi = "Membuat repo"
+nama = "Hafidz (main)"
+hobi = "Ngoding"
