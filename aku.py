@@ -1,2 +1,2 @@
-nama = "Owner"
-hobi = "Membuat repo"
+nama = "Akun B (Development)"
+hobi = "Belajar Rebase"
